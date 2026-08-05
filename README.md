@@ -8,5 +8,3 @@
 [![Leonardo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leonardo-MFarias)](https://github.com/stats-organization/github-stats-extended)
 
 [![Years Badge](https://badges.pufler.dev/years/Leonardo-MFarias)](https://github.com/Leonardo-MFarias)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-MFarias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
