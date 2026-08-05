@@ -5,6 +5,6 @@
 - 🌱 Estou aprendendo Laravel, AWS, IA e quando sobra tempo front-end hehehe
 - 📫 Meu email para contato é: furiossam@hotmail.com
 
-![Leonardo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Leonardo-MFarias&count_private=true&show_icons=true&theme=dark)
+[![Leonardo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leonardo-MFarias)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Leonardo-MFarias&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
