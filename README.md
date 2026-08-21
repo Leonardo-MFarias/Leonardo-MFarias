@@ -2,7 +2,7 @@
 
 
 - 🔭 Estou trabalhando atualmente com Backend
-- 🌱 Estou aprendendo Laravel, AWS, IA e quando sobra tempo front-end hehehe
+- 🌱 Estou aprendendo Flutter, Azure, IA e um pouquinho de tudo sempre
 - 📫 Meu email para contato é: furiossam@hotmail.com
 
 [![Leonardo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leonardo-MFarias)](https://github.com/stats-organization/github-stats-extended)
