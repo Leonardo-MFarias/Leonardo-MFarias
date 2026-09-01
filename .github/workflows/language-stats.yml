@@ -1,0 +1,33 @@
+name: Update language stats
+
+on:
+  schedule:
+    - cron: "0 6 * * 0" # toda semana, domingo 06:00 UTC
+  workflow_dispatch: {}
+
+permissions:
+  contents: write
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Generate language stats
+        env:
+          STATS_TOKEN: ${{ secrets.STATS_TOKEN }}
+          GH_USERNAME: Leonardo-MFarias
+        run: node scripts/generate-language-stats.mjs
+
+      - name: Commit updated stats image
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add assets/languages.svg
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update language stats"
+            git push
+          else
+            echo "Sem mudanças para commitar"
+          fi

@@ -7,4 +7,8 @@
 
 [![Leonardo's GitHub stats](https://github-stats-extended.vercel.app/api?username=Leonardo-MFarias)](https://github.com/stats-organization/github-stats-extended)
 
+### 💻 Linguagens (repositórios públicos + privados)
+
+![Language stats](https://raw.githubusercontent.com/Leonardo-MFarias/Leonardo-MFarias/main/assets/languages.svg)
+
 [![Years Badge](https://badges.pufler.dev/years/Leonardo-MFarias)](https://github.com/Leonardo-MFarias)
