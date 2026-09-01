@@ -1,0 +1,39 @@
+<svg width="420" height="316" viewBox="0 0 420 316" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Uso de linguagens em todos os repositórios">
+
+  <text x="0" y="27" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">Dart</text>
+  <rect x="110" y="14" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="14" width="63.17398204903678" height="16" rx="4" fill="#3572A5" />
+  <text x="416" y="27" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">23.4%</text>
+  <text x="0" y="61" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">Java</text>
+  <rect x="110" y="48" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="48" width="57.20829684763573" height="16" rx="4" fill="#f1e05a" />
+  <text x="416" y="61" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">21.2%</text>
+  <text x="0" y="95" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">Vue</text>
+  <rect x="110" y="82" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="82" width="55.203590192644484" height="16" rx="4" fill="#e34c26" />
+  <text x="416" y="95" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">20.4%</text>
+  <text x="0" y="129" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">PHP</text>
+  <rect x="110" y="116" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="116" width="36.609840192644484" height="16" rx="4" fill="#563d7c" />
+  <text x="416" y="129" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">13.6%</text>
+  <text x="0" y="163" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">C++</text>
+  <rect x="110" y="150" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="150" width="19.47351138353765" height="16" rx="4" fill="#00ADD8" />
+  <text x="416" y="163" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">7.2%</text>
+  <text x="0" y="197" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">CMake</text>
+  <rect x="110" y="184" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="184" width="13.735223292469353" height="16" rx="4" fill="#178600" />
+  <text x="416" y="197" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">5.1%</text>
+  <text x="0" y="231" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">TypeScript</text>
+  <rect x="110" y="218" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="218" width="9.574759194395797" height="16" rx="4" fill="#701516" />
+  <text x="416" y="231" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">3.5%</text>
+  <text x="0" y="265" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">PLpgSQL</text>
+  <rect x="110" y="252" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="252" width="3.0716396672504374" height="16" rx="4" fill="#b07219" />
+  <text x="416" y="265" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">1.1%</text>
+  <text x="0" y="299" font-family="Segoe UI, sans-serif" font-size="13" fill="#6e7681">Outras</text>
+  <rect x="110" y="286" width="270" height="16" rx="4" fill="#6e7681" opacity="0.2" />
+  <rect x="110" y="286" width="11.949157180385289" height="16" rx="4" fill="#4F5D95" />
+  <text x="416" y="299" font-family="Segoe UI, sans-serif" font-size="12" fill="#6e7681" text-anchor="end">4.4%</text>
+</svg>
